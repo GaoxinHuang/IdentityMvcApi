@@ -1,0 +1,10 @@
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\Data.dll.config
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\Data.dll
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\Data.pdb
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\EntityFramework.dll
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\EntityFramework.xml
+D:\work\Projects\Visual_Studio\identityNet\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\Projects\Visual_Studio\identityNet\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\work\Projects\Visual_Studio\identityNet\Data\obj\Debug\Data.dll
+D:\work\Projects\Visual_Studio\identityNet\Data\obj\Debug\Data.pdb

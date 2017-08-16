@@ -13,10 +13,10 @@ namespace Data
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class IdentityDbContext : DbContext
+    public partial class EntityFrameworkIdentityContext : DbContext
     {
-        public IdentityDbContext()
-            : base("name=IdentityDbContext")
+        public EntityFrameworkIdentityContext()
+            : base("name=EntityFrameworkIdentityContext")
         {
         }
     
